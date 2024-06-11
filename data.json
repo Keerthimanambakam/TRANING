@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "p_id": 111,
+      "p_name": "P_one",
+      "p_cost": 10000
+    },
+    {
+      "id": "2",
+      "p_id": 222,
+      "p_name": "P_two",
+      "p_cost": 20000
+    },
+    {
+      "id": "3",
+      "p_id": 333,
+      "p_name": "P_three",
+      "p_cost": 30000
+    },
+    {
+      "id": "4",
+      "p_id": 444,
+      "p_name": "P_four",
+      "p_cost": 40000
+    },
+    {
+      "id": "5",
+      "p_id": 666,
+      "p_name": "P_six_updates",
+      "p_cost": 60000
+    },
+    {
+      "id": "6",
+      "p_id": 666,
+      "p_name": "P_six",
+      "p_cost": 60000
+    },
+    {
+      "id": 7,
+      "p_id": 852,
+      "p_name": "kjhgfderty",
+      "p_cost": 101010010
+    },
+    {
+      "id": 7,
+      "p_id": 852,
+      "p_name": "kjhgfderty",
+      "p_cost": 101010010
+    },
+    {
+      "id": 7,
+      "p_id": 852,
+      "p_name": "kry",
+      "p_cost": 70
+    }
+  ]
+}

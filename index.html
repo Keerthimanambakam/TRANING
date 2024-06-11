@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+    <title>AJAX Api calls</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+
+<body>
+    <form method="post" id='myform'>
+        <input type="number" placeholder="ID" name='uid' id='uid'> <br><br>
+        <input type="number" placeholder="P_ID" name="p_id" id='p_id'> <br><br>
+        <input type="text" placeholder="P_NAME" name="p_name" id='p_name'> <br><br>
+        <input type="number" placeholder="P_COST" name="p_cost" id='p_cost'> <br><br>
+        <input type="submit" id="send" value="Send"> 
+        <input type="submit" id='update' value="Update">
+        <input type="submit" id='delete' value="Delete"> 
+        <br><br>
+    </form>
+    <button id="getData">Get</button>
+    <div style="color:red" id='op'></div>
+    <script src="./script.js"></script>
+</body>
+
+</html>
+
+
